@@ -30,11 +30,6 @@ samples/
 ### Before & After
 ![Sample Transformation](samples/comparison.png)
 
-> Note: Add a side-by-side comparison image showing:
-> - Original clip
-> - YouTube Shorts version (with blur effect)
-> - Twitter version
-
 ## Requirements
 
 - Python 3.8+
